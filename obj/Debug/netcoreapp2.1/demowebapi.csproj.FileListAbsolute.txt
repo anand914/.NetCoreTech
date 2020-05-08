@@ -1,0 +1,13 @@
+C:\Users\ug\source\repos\demowebapi\demowebapi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ug\source\repos\demowebapi\demowebapi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ug\source\repos\demowebapi\demowebapi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ug\source\repos\demowebapi\demowebapi\bin\Debug\netcoreapp2.1\demowebapi.deps.json
+C:\Users\ug\source\repos\demowebapi\demowebapi\bin\Debug\netcoreapp2.1\demowebapi.runtimeconfig.json
+C:\Users\ug\source\repos\demowebapi\demowebapi\bin\Debug\netcoreapp2.1\demowebapi.runtimeconfig.dev.json
+C:\Users\ug\source\repos\demowebapi\demowebapi\bin\Debug\netcoreapp2.1\demowebapi.dll
+C:\Users\ug\source\repos\demowebapi\demowebapi\obj\Debug\netcoreapp2.1\demowebapi.csprojAssemblyReference.cache
+C:\Users\ug\source\repos\demowebapi\demowebapi\obj\Debug\netcoreapp2.1\demowebapi.RazorAssemblyInfo.cache
+C:\Users\ug\source\repos\demowebapi\demowebapi\obj\Debug\netcoreapp2.1\demowebapi.RazorAssemblyInfo.cs
+C:\Users\ug\source\repos\demowebapi\demowebapi\obj\Debug\netcoreapp2.1\demowebapi.AssemblyInfoInputs.cache
+C:\Users\ug\source\repos\demowebapi\demowebapi\obj\Debug\netcoreapp2.1\demowebapi.AssemblyInfo.cs
+C:\Users\ug\source\repos\demowebapi\demowebapi\obj\Debug\netcoreapp2.1\demowebapi.RazorTargetAssemblyInfo.cache
